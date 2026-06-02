@@ -1,0 +1,11 @@
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.csproj.AssemblyReference.cache
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.Properties.Resources.resources
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.csproj.GenerateResource.cache
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.csproj.CoreCompileInputs.cache
+C:\ChatSeguro\ChatCliente\bin\Debug\ChatCliente.exe.config
+C:\ChatSeguro\ChatCliente\bin\Debug\ChatCliente.exe
+C:\ChatSeguro\ChatCliente\bin\Debug\ChatCliente.pdb
+C:\ChatSeguro\ChatCliente\bin\Debug\ProtocolSI.dll
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatClie.B4DD0BEE.Up2Date
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.exe
+C:\ChatSeguro\ChatCliente\obj\Debug\ChatCliente.pdb
