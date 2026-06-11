@@ -1,9 +1,0 @@
-C:\ChatSeguro\ChatServidor\bin\Debug\ChatServidor.exe.config
-C:\ChatSeguro\ChatServidor\bin\Debug\ChatServidor.exe
-C:\ChatSeguro\ChatServidor\bin\Debug\ChatServidor.pdb
-C:\ChatSeguro\ChatServidor\bin\Debug\ProtocolSI.dll
-C:\ChatSeguro\ChatServidor\obj\Debug\ChatServidor.csproj.AssemblyReference.cache
-C:\ChatSeguro\ChatServidor\obj\Debug\ChatServidor.csproj.CoreCompileInputs.cache
-C:\ChatSeguro\ChatServidor\obj\Debug\ChatServ.9D62241A.Up2Date
-C:\ChatSeguro\ChatServidor\obj\Debug\ChatServidor.exe
-C:\ChatSeguro\ChatServidor\obj\Debug\ChatServidor.pdb
